@@ -1,2 +1,4 @@
 # homebrew-ddcctl
-Tap for https://github.com/kfix/ddcctl
+Homebrew tap for https://github.com/kfix/ddcctl
+AMD GPU build
+
